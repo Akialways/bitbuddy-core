@@ -1,0 +1,12 @@
+# Build outputs and local IDE files
+.pio/
+build/
+*.bin
+*.elf
+*.map
+.vscode/
+.idea/
+.DS_Store
+.env
+.env.*
+!.env.example
